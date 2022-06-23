@@ -2,7 +2,7 @@
 Materials for my Python tutorials. From basics to Machine Learning, Data Science, and Deep Learning applications.
 
 ## Preparing the environment
-**Note**: I have developed this project on __Linux__. It can surely be run on Windows and Mac with some little changes.
+**Note**: I have tested codes on __Linux__. It can surely be run on Windows and Mac with some little changes.
 
 1. Clone the repository, and navigate to the downloaded folder.
 ```
@@ -35,3 +35,5 @@ jupyter notebook
 ```
 
 9. Once you open any of the project notebooks, make sure you are in the correct `coding_env` environment by clicking `Kernel > Change Kernel > coding_env`.
+
+#### TODO: Add syllabus

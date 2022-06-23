@@ -11,3 +11,7 @@ jupyter==1.0.0
 opencv-python==4.6.0.66
 seaborn==0.11.2
 statsmodels==0.13.2
+html5lib==1.1
+lxml==4.9.0
+tables==3.7.0
+openpyxl==3.0.10
