@@ -59,14 +59,4 @@ jupyter notebook
     7. Data Aggregation and Group Operations
     8. Time Series
     9. Complete Real World Examples
- Deep Learning
- Getting Started with Python Machine Learning.ipynb
- Hands On Machine Learning with Sklearn and Tensorflow
- Introduction to Pandas.ipynb
- NumPy Quick Refresher.ipynb
- Pandas get_dummies.ipynb
- Pandas Grouping.ipynb
- PyTorch Quick Refresher.ipynb
- scikit. learn
-    README.md
-└── requirements.txt
+
