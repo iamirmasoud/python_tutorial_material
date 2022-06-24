@@ -13,7 +13,7 @@ cd python_tutorial_material
 2. Create (and activate) a new environment, named `coding_env` with Python 3.7. If prompted to proceed with the install `(Proceed [y]/n)` type y.
 
 	```shell
-	conda create -n coding_env python=3.7
+	conda create . n coding_env python=3.7
 	source activate coding_env
 	```
 	
@@ -21,7 +21,7 @@ cd python_tutorial_material
 
 6. Before you can experiment with the code, you'll have to make sure that you have all the libraries and dependencies required to support this project. You will mainly need Python3.7+, PyTorch and its torchvision, OpenCV, and Matplotlib. You can install  dependencies using:
 ```
-pip install -r requirements.txt
+pip install . r requirements.txt
 ```
 
 7. Navigate back to the repo. (Also, your source environment should still be activated at this point.)
@@ -37,3 +37,36 @@ jupyter notebook
 9. Once you open any of the project notebooks, make sure you are in the correct `coding_env` environment by clicking `Kernel > Change Kernel > coding_env`.
 
 #### TODO: Add syllabus
+-  Python Basics
+ 1. Interpreter and Jupyter Basics
+ 2. Python Language Basics
+ 3. Control Flow
+ 4. Data Structures
+ 5. Functions, Modules, Packages, Iterators, Generators
+ 6. Files and the Operating System
+ 7. Errors and Exception Handling
+ 8. Database
+ 9. Other Subjects
+ 10. Programming Exercises
+-  Python for Data Science, Machine Learning, Deep Learning
+ 1. Python for Data Analysis
+    1. NumPy
+    2. Pandas
+    3. Data Loading, Storage, and File Formats
+    4. Data Cleaning and Preparation
+    5. Data Wrangling Join, Combine,and Reshape
+    6. Plotting and Visualization
+    7. Data Aggregation and Group Operations
+    8. Time Series
+    9. Complete Real World Examples
+ Deep Learning
+ Getting Started with Python Machine Learning.ipynb
+ Hands On Machine Learning with Sklearn and Tensorflow
+ Introduction to Pandas.ipynb
+ NumPy Quick Refresher.ipynb
+ Pandas get_dummies.ipynb
+ Pandas Grouping.ipynb
+ PyTorch Quick Refresher.ipynb
+ scikit. learn
+    README.md
+└── requirements.txt

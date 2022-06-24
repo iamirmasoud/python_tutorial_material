@@ -1,0 +1,108 @@
+[
+  {
+    "id": 23512,
+    "description": "KENTUCKY FRIED CHICKEN, Fried Chicken, EXTRA CRISPY, Wing, meat and skin with breading",
+    "tags": [
+      "KFC"
+    ],
+    "manufacturer": "Kentucky Fried Chicken",
+    "group": "Fast Foods",
+    "portions": [
+      {
+        "amount": 1,
+        "unit": "wing, with skin",
+        "grams": 68.0
+      },
+      {
+        "amount": 2,
+        "unit": "my wing",
+        "grams": 63.0
+      }
+    ],
+    "nutrients": [
+      {
+        "value": 20.8,
+        "units": "g",
+        "description": "Protein",
+        "group": "Composition"
+      },
+      {
+        "value": 213.8,
+        "units": "mg",
+        "description": "Carbohydrate",
+        "group": "Composition"
+      }
+    ]
+  },
+  {
+    "id": 21441,
+    "description": "KENTUCKY FRIED CHICKEN, Fried Chicken, EXTRA CRISPY, Wing, meat and skin with breading",
+    "tags": [
+      "KFC"
+    ],
+    "manufacturer": "Kentucky Fried Chicken",
+    "group": "Fast Foods",
+    "portions": [
+      {
+        "amount": 1,
+        "unit": "wing, with skin",
+        "grams": 68.0
+      },
+      {
+        "amount": 2,
+        "unit": "my wing",
+        "grams": 63.0
+      }
+    ],
+    "nutrients": [
+      {
+        "value": 20.8,
+        "units": "g",
+        "description": "Protein",
+        "group": "Composition"
+      },
+      {
+        "value": 213.8,
+        "units": "mg",
+        "description": "Carbohydrate",
+        "group": "Composition"
+      }
+    ]
+  }
+  ,
+  {
+    "id": 23423,
+    "description": "KENTUCKY FRIED CHICKEN, Fried Chicken, EXTRA CRISPY, Wing, meat and skin with breading",
+    "tags": [
+      "KFC"
+    ],
+    "manufacturer": "Kentucky Fried Chicken",
+    "group": "Fast Foods",
+    "portions": [
+      {
+        "amount": 1,
+        "unit": "wing, with skin",
+        "grams": 68.0
+      },
+      {
+        "amount": 2,
+        "unit": "my wing",
+        "grams": 63.0
+      }
+    ],
+    "nutrients": [
+      {
+        "value": 20.8,
+        "units": "g",
+        "description": "Protein",
+        "group": "Composition"
+      },
+      {
+        "value": 213.8,
+        "units": "mg",
+        "description": "Carbohydrate",
+        "group": "Composition"
+      }
+    ]
+  }
+]

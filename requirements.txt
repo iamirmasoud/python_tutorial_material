@@ -15,3 +15,10 @@ html5lib==1.1
 lxml==4.9.0
 tables==3.7.0
 openpyxl==3.0.10
+scipy==1.7.3
+scikit-image==0.19.2
+line_profiler
+memory_profiler
+numexpr
+pandas-datareader
+netcdf4
