@@ -1,5 +1,6 @@
-# python_tutorial_material
-Materials for my Python tutorials. From basics to Machine Learning, Data Science, and Deep Learning applications.
+# Materials for my Python tutorials: From basics to Machine Learning, Data Science, and Deep Learning applications.
+
+This repo provides a series of Python tutorials from basics to Machine Learning, Data Science, and Deep Learning applications.
 
 ## Preparing the environment
 **Note**: I have tested codes on __Linux__. It can surely be run on Windows and Mac with some little changes.
