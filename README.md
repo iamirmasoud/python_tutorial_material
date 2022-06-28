@@ -1,6 +1,6 @@
-# Materials for my Python tutorials: From basics to Machine Learning, Data Science, and Deep Learning applications.
+# Materials for Python tutorials: From basics to Machine Learning, Data Science, and Deep Learning applications.
 
-This repo provides a series of Python tutorials from basics to Machine Learning, Data Science, and Deep Learning applications.
+This repo provides a series of Python tutorials (Jupyter Notebooks) from basics to Machine Learning, Data Science, and Deep Learning applications.
 
 ## Preparing the environment
 **Note**: I have tested codes on __Linux__. It can surely be run on Windows and Mac with some little changes.
@@ -37,7 +37,14 @@ jupyter notebook
 
 9. Once you open any of the project notebooks, make sure you are in the correct `coding_env` environment by clicking `Kernel > Change Kernel > coding_env`.
 
-#### TODO: Add syllabus
+## Useful Books:
+
+- [Python for Data Analysis: Data Wrangling with Pandas, NumPy, and IPython](https://www.amazon.com/Python-Data-Analysis-Wrangling-IPython/dp/1491957662/)
+- [Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow: Concepts, Tools, and Techniques to Build Intelligent Systems 2nd Edition](https://www.amazon.com/Hands-Machine-Learning-Scikit-Learn-TensorFlow/dp/1492032646)
+- [Python Data Science Handbook: Essential Tools for Working with Data](https://www.amazon.com/Python-Data-Science-Handbook-Essential-ebook/dp/B01N2JT3ST/)
+
+
+#### Syllabus
 -  Python Basics
  1. Interpreter and Jupyter Basics
  2. Python Language Basics
@@ -59,5 +66,6 @@ jupyter notebook
     6. Plotting and Visualization
     7. Data Aggregation and Group Operations
     8. Time Series
-    9. Complete Real World Examples
+    9. Real World Data Analysis Examples
 
+TODO: Complete syllabus
