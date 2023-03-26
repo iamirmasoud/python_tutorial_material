@@ -20,7 +20,7 @@ cd python_tutorial_material
 	
 	At this point your command line should look something like: `(coding_env) <User>:python_tutorial_material <user>$`. The `(coding_env)` indicates that your environment has been activated, and you can proceed with further package installations.
 
-6. Before you can experiment with the code, you'll have to make sure that you have all the libraries and dependencies required to support this project. You will mainly need Python3.7+, PyTorch and its torchvision, OpenCV, and Matplotlib. You can install  dependencies using:
+6. Before you can experiment with the code, you'll have to make sure that you have all the libraries and dependencies required to support this project. You can install dependencies using:
 ```
 pip install . r requirements.txt
 ```
@@ -44,28 +44,56 @@ jupyter notebook
 - [Python Data Science Handbook: Essential Tools for Working with Data](https://www.amazon.com/Python-Data-Science-Handbook-Essential-ebook/dp/B01N2JT3ST/)
 
 
-#### Syllabus
--  Python Basics
- 1. Interpreter and Jupyter Basics
- 2. Python Language Basics
- 3. Control Flow
- 4. Data Structures
- 5. Functions, Modules, Packages, Iterators, Generators
- 6. Files and the Operating System
- 7. Errors and Exception Handling
- 8. Database
- 9. Other Subjects
- 10. Programming Exercises
--  Python for Data Science, Machine Learning, Deep Learning
- 1. Python for Data Analysis
-    1. NumPy
-    2. Pandas
-    3. Data Loading, Storage, and File Formats
-    4. Data Cleaning and Preparation
-    5. Data Wrangling Join, Combine,and Reshape
-    6. Plotting and Visualization
-    7. Data Aggregation and Group Operations
-    8. Time Series
-    9. Real World Data Analysis Examples
+## Syllabus
 
-TODO: Complete syllabus
+
+### Python Basics
+This directory contains fundamental Python concepts that beginners need to learn. It consists of the following subdirectories:
+
+#### 1-Interpreter and Jupyter Basics
+This section covers the basics of the Python interpreter, the Jupyter Notebook, and how to write Python code in both.
+
+#### 2-Python Language Basics
+This section covers Python data types, operators, expressions, and control flow statements.
+
+#### 3-Control Flow
+This section covers Python's control flow statements, including if statements, while loops, and for loops.
+
+#### 4-Data Structures
+This section covers Python's built-in data structures, such as lists, tuples, dictionaries, and sets.
+
+#### 5-Functions, Modules, Packages, Iterators, Generators
+This section covers functions, modules, packages, iterators, and generators in Python.
+
+#### 6-Files and the Operating System
+This section covers how to work with files and directories in Python.
+
+#### 7-Errors and Exception Handling
+This section covers how to handle errors and exceptions in Python.
+
+#### 8-Database
+This section covers how to work with databases in Python using SQLite and SQLAlchemy.
+
+#### 9-Other Subjects
+This section covers advanced Python concepts, such as OOP, decorators, and more.
+
+### Python for Data Science, Machine Learning, and Deep Learning
+
+This directory contains resources for using Python for data science, machine learning, and deep learning. It consists of the following subdirectories:
+
+#### Python for Data Analysis
+
+This section covers the NumPy and Pandas libraries, data cleaning and preparation, data wrangling, plotting and visualization, and more.
+
+#### Python for Data Science
+
+This section covers IPython, NumPy, and other libraries used in data science, including debugging and profiling techniques.
+
+#### Hands-On Machine Learning with Sklearn and Tensorflow
+
+This section covers the basics of machine learning, including artificial neural networks, deep neural nets, and convolutional neural networks, using Scikit-Learn and TensorFlow.
+
+#### Deep Learning
+This section covers deep learning techniques using Keras and PyTorch.
+
+
